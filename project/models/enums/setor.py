@@ -2,7 +2,7 @@ from enum import Enum
 
 
 
-class setor(Enum):
+class Setor(Enum):
     
     
     ENGENHARIA = "Engenharia"

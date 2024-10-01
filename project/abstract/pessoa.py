@@ -1,4 +1,4 @@
-from my_project.models import Endereco
+from project.models import Endereco
 from abc import ABC, abstractmethod
 
 
